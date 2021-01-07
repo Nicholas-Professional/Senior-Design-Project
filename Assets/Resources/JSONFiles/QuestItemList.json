@@ -1,9 +1,0 @@
-{"items":[
-    {
-        "type"  :   "quest",
-        "objectSlug" : "skeleton_bone",
-        "itemName" : "Skeleton Bone",
-        "description" : "A human bone hopefully from an undead.",
-        "questID"   : "0"
-    }
-]}
